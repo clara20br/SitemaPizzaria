@@ -43,6 +43,6 @@ public class pizza {
 
 
  public void exibirInfo() {
-System.out.println( "pizza [sabores=" + numPedido + ", tamanhos=" + numTamanho +"]");
+System.out.println( "pizza [sabores=" + numPedido + ", tamanhos=\n" + numTamanho +"]");
  }
 }

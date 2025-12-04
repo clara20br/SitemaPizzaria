@@ -30,6 +30,7 @@ private String telefone;
 	public void exibirInfo() {
 		System.out.println( "entregador [nome=" + nome + ", placaMoto=" + placaMoto + ", telefone=" + telefone + "]");
 	}
+	
 
 
 	
